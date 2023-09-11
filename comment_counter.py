@@ -1,7 +1,6 @@
 import requests
 
-url = "https://youtu.be/AkyMZGnjm7c?si=sinZpV1814r81Hn_"
-video_id = "v0RWnNj6f8c"
+video_id = "YouTube Video ID e.g.:jNQXAC9IVRw"
 
 api_key = "Your API key"
 min_comment_count = int(input("Please specify the minimum number of comments to search for:"))
