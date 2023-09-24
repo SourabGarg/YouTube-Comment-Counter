@@ -8,4 +8,6 @@ User-Friendly: The tool is easy to use and provides a straightforward way to ret
 
 YouTube API Integration: It utilizes YouTube's API to fetch and analyze comments, ensuring accurate and up-to-date results.
 
-User Engagement Insights: By counting comments made by a particular user, you can gain insights into their level of engagement with a specific video.
+User Engagement Insights: By counting comments made by a particular user, you can gain insights into their level of engagement with a specific video.                                             
+  
+  Project guided by ChatGPT v3.5 for ideas and direction
